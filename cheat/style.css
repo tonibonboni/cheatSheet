@@ -1,0 +1,28 @@
+nav{
+    padding:10px;
+    height: 200px;
+    background-color: aquamarine;
+    color: black;
+    display: block;
+   justify-items: center;
+   
+  }
+
+  #title{
+    font-size: 60px;
+  }
+
+  #topic{
+    font-size:20px;
+  }
+
+  .tags{
+     font-size: 20px;
+  }
+
+  footer{
+    background-color: aquamarine;
+    color: black;
+    display: flex;
+    justify-content: center;
+  }
